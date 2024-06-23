@@ -1,5 +1,8 @@
 # Document Layout Generation 
 
+Note - Install necessary libraries such as opencv-python, pdf2image, img2pdf, numpy etc.
+       Download Poppler https://github.com/oschwartz10612/poppler-windows/releases/
+
 ## Description
 
 This tool converts any document PDF to its segmented version PDF. 
